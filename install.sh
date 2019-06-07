@@ -10,3 +10,7 @@ devices/system/cpu/cpu3/cpufreq/scaling_governor = performance
 
 sudo echo 'autospawn = no' >> sudo /etc/pulse/client.conf
 
+cd ~
+ln -s mag/scripts/pianoteq.sh
+ln -s mag/scripts/jackd.sh
+
