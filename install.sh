@@ -14,3 +14,6 @@ cd ~
 ln -s mag/scripts/pianoteq.sh
 ln -s mag/scripts/jackd.sh
 
+chmod +x pianoteq.sh
+chmod +x jackd.sh
+
